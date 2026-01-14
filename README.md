@@ -1,44 +1,44 @@
-# Salut! Sunt Nicolas 👋
+# Hi! I'm Nicolas 👋
 
-Sunt student la **Facultatea de Automatică și Calculatoare**, în cadrul Universității Naționale de Știință și Tehnologie **POLITEHNICA București** (UNSTPB). Sunt pasionat de ingineria sistemelor, dezvoltarea de soluții distribuite și algoritmica.
+I am a **Computer Science Student** at the Faculty of Automatic Control and Computer Science, within the National University of Science and Technology **POLITEHNICA Bucharest** (UNSTPB). I am deeply passionate about systems engineering, distributed systems development, and algorithm design.
 
 ---
-  
-### 🚀 Proiecte Reprezentative
 
-Portofoliul meu acoperă o gamă largă de domenii tehnice, de la sisteme low-level până la platforme web moderne:
+### 🚀 Featured Projects
 
-#### 🌐 Networking & Sisteme Distribuite
-* **[MPI Chord Protocol](https://github.com/costescunicolas/mpi-chord-protocol)**: Implementarea protocolului de rutare distribuită CHORD folosind MPI, optimizat pentru căutări logaritmice în inele de identificatori.
-* **[Router Dataplane](https://github.com/costescunicolas/router-dataplane)**: Dezvoltarea planului de date pentru un router IPv4, incluzând procese de forwarding, protocoalele ARP și ICMP, și căutări eficiente în tabele de rutare (LPM).
+My portfolio spans a wide range of technical domains, from low-level systems to modern web platforms:
 
-#### 🧪 Programare Funcțională (Scala & Haskell)
-* **[Lambda Calculus Interpreter](https://github.com/costescunicolas/Lambda-Calculus_Interpreter)**: Un interpretor robust pentru Lambda Calcul scris în Haskell, capabil de parsare AST și $\beta$-reducere.
-* **[Database Query Language](https://github.com/costescunicolas/database-query-language)**: Motor de baze de date imuabil dezvoltat în Scala, utilizând un DSL personalizat pentru interogări complexe.
-* **[Barcode Decoder](https://github.com/costescunicolas/barcode-decoder)**: Procesor de imagini în Scala pentru decodarea codurilor de bare din formate Netpbm (PPM/PBM).
+#### 🌐 Networking & Distributed Systems
+* **[MPI Chord Protocol](https://github.com/costescunicolas/mpi-chord-protocol)**: An implementation of the CHORD distributed routing protocol using MPI, optimized for logarithmic lookups in identifier rings.
+* **[Router Dataplane](https://github.com/costescunicolas/router-dataplane)**: Development of an IPv4 router dataplane, featuring packet forwarding logic, ARP and ICMP protocol handling, and efficient Longest Prefix Match (LPM) lookups.
 
-#### 💻 Full-Stack Web & Vizualizare
-* **[Alco Market](https://github.com/costescunicolas/alco-market)**: Platformă E-commerce completă (MERN Stack) cu integrare Stripe pentru plăți, Redis pentru caching și Cloudinary pentru imagini.
-* **[Pathfinding Visualizer](https://github.com/costescunicolas/pathfinding-visualizer)**: Instrument interactiv în React pentru vizualizarea algoritmilor de căutare (BFS, DFS, A*) și generare de labirinturi.
+#### 🧪 Functional Programming (Scala & Haskell)
+* **[Lambda Calculus Interpreter](https://github.com/costescunicolas/Lambda-Calculus_Interpreter)**: A robust Lambda Calculus interpreter written in Haskell, capable of AST parsing and $\beta$-reduction.
+* **[Database Query Language](https://github.com/costescunicolas/database-query-language)**: An immutable database engine developed in Scala, utilizing a custom DSL for complex data queries.
+* **[Barcode Decoder](https://github.com/costescunicolas/barcode-decoder)**: An image processor built in Scala for decoding barcodes from Netpbm formats (PPM/PBM).
+
+#### 💻 Full-Stack Web & Visualization
+* **[Alco Market](https://github.com/costescunicolas/alco-market)**: A comprehensive E-commerce platform (MERN Stack) featuring Stripe integration for payments, Redis for caching, and Cloudinary for image management.
+* **[Pathfinding Visualizer](https://github.com/costescunicolas/pathfinding-visualizer)**: An interactive React tool for visualizing search algorithms (BFS, DFS, A*) and procedural maze generation.
 
 #### 🎮 Graphics & Game Dev
-* **[Chicken Invaders & Ship Editor](https://github.com/costescunicolas/chicken-invaders)**: Clonă de joc clasic dezvoltată în C++, cu un modul avansat de construcție și validare a navei pe grid.
+* **[Chicken Invaders & Ship Editor](https://github.com/costescunicolas/chicken-invaders)**: A classic game clone developed in C++, including an advanced grid-based module for ship construction and engineering validation.
 
 ---
 
-### 🛠️ Tehnologii și Instrumente
+### 🛠️ Tech Stack & Tools
 
-* **Limbaje de Programare:** C, C++, Java, Scala, Haskell, JavaScript/Node.js, Python.
+* **Programming Languages:** C, C++, Java, Scala, Haskell, JavaScript/Node.js, Python.
 * **Web Frameworks:** React, Express, Vite, Tailwind CSS.
-* **Baze de date & Cloud:** MongoDB, Redis, Cloudinary, Stripe API.
-* **Networking:** MPI, Mininet, Protocoale Layer 2/3.
+* **Databases & Cloud:** MongoDB, Redis, Cloudinary, Stripe API.
+* **Networking:** MPI, Mininet, Layer 2/3 Protocols.
 
 ---
 
-### 📫 Contact & Social
+### 📫 Contact & Socials
 
-* 🎓 Student la Automatică și Calculatoare, UNSTPB.
-* 🔭 Lucrez constant la proiecte care provoacă înțelegerea sistemelor complexe.
-* 💬 Întreabă-mă despre: Sisteme Distribuite, Scala sau React.
+* 🎓 CS Student at UNSTPB.
+* 🔭 Constantly building projects that challenge the understanding of complex systems.
+* 💬 Ask me about: Distributed Systems, Scala, or React.
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=costescunicolas&show_icons=true&theme=radical)](https://github.com/costescunicolas)
