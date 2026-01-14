@@ -1,9 +1,9 @@
 # Salut! Sunt Nicolas 👋
 
-Sunt student la **Facultatea de Automatică și Calculatoare**, în cadrul Universității Naționale de Știință și Tehnologie **POLITEHNICA București** (UNSTPB). Sunt pasionat de ingineria sistemelor, dezvoltarea de soluții distribuite și explorarea paradigmelor de programare funcțională.
+Sunt student la **Facultatea de Automatică și Calculatoare**, în cadrul Universității Naționale de Știință și Tehnologie **POLITEHNICA București** (UNSTPB). Sunt pasionat de ingineria sistemelor, dezvoltarea de soluții distribuite și algoritmica.
 
 ---
-
+  
 ### 🚀 Proiecte Reprezentative
 
 Portofoliul meu acoperă o gamă largă de domenii tehnice, de la sisteme low-level până la platforme web moderne:
@@ -28,7 +28,7 @@ Portofoliul meu acoperă o gamă largă de domenii tehnice, de la sisteme low-le
 
 ### 🛠️ Tehnologii și Instrumente
 
-* **Limbaje de Programare:** C, C++, Java, Scala, Haskell, JavaScript/Node.js.
+* **Limbaje de Programare:** C, C++, Java, Scala, Haskell, JavaScript/Node.js, Python.
 * **Web Frameworks:** React, Express, Vite, Tailwind CSS.
 * **Baze de date & Cloud:** MongoDB, Redis, Cloudinary, Stripe API.
 * **Networking:** MPI, Mininet, Protocoale Layer 2/3.
